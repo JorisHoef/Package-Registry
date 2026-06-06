@@ -22,3 +22,11 @@ Auto-discovery is intentionally avoided because it creates ambiguity around arch
 - `stableUrl`: GitHub HTTPS Unity Package Manager URL for the stable branch.
 - `developmentUrl`: GitHub HTTPS Unity Package Manager URL for the development branch.
 - `dependencies`: Package IDs that must also exist in this registry.
+
+## Current categories
+
+- `Core`: foundational standalone packages.
+- `UI`: UI presentation packages.
+- `World`: world-object and scene-interaction packages.
+- `Bridge`: explicit integration packages between two package owners.
+- `Suites`: curated bundles that install a complete stack through declared dependencies.
