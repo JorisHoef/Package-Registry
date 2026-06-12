@@ -57,6 +57,15 @@
       "dependencies": []
     },
     {
+      "id": "com.deucarian.theming",
+      "displayName": "Deucarian Theming",
+      "category": "UI",
+      "description": "Designer-friendly ScriptableObject theming with color role assets, palettes, themes, and Unity component adapters.",
+      "stableUrl": "https://github.com/Deucarian/Theming.git#main",
+      "developmentUrl": "",
+      "dependencies": []
+    },
+    {
       "id": "com.deucarian.object-selection",
       "displayName": "Deucarian Object Selection",
       "category": "World",
